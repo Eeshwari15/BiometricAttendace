@@ -98,7 +98,7 @@ PyMuPDF==1.16.10
 PyMySQL==0.9.3
 pyparsing==2.4.2
 PyPDF2==1.26.0
-pypiwin32==223
+
 PyPrind==2.11.2
 pyrsistent==0.15.4
 pyserial==3.4
