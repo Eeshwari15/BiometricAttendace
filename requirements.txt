@@ -108,7 +108,7 @@ python-engineio==3.11.1
 python-pptx==0.6.18
 python-socketio==4.4.0
 pytz==2019.2
-pywin32==227
+
 pywinpty==0.5.5
 pyxnat==1.2.1.0.post3
 PyYAML==5.3
